@@ -1,0 +1,33 @@
+body{
+     font-family: 'Poppins', sans-serif;
+}
+section{
+     display: flex;
+}
+.text{
+width: 50%;
+}
+.baground{
+     background-image: url(image/cropped-1920-1081-1003220.png);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: 100% 100%;
+
+}
+h1{
+     color: aliceblue;
+}
+.box{
+     width: 100px;
+     height: auto;
+     padding: 10;
+}
+img{
+     max-width: 100%;
+}
+.h3{
+     color: blueviolet;
+}
+p{
+     color: aliceblue;
+}
