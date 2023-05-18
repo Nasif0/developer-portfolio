@@ -6,6 +6,7 @@ section{
 }
 .text{
 width: 50%;
+color: aliceblue;
 }
 .baground{
      background-image: url(image/cropped-1920-1081-1003220.png);
@@ -30,4 +31,7 @@ img{
 }
 p{
      color: aliceblue;
+}
+h4{
+     display: flex;
 }
